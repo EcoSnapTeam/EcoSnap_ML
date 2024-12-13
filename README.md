@@ -153,4 +153,3 @@ Server akan berjalan di http://127.0.0.1:8080.
 - Gunakan file kredensial key.json untuk mengakses layanan Google Cloud.
 - Selalu backup model sebelum memperbarui versi baru.
 
-lupa bang ini readme nya
